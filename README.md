@@ -1,27 +1,24 @@
-<!--
-**5lin/5lin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there, I'm 51in 👋
 
-Here are some ideas to get you started:
-
-
--->
-![](./profile-3d-contrib/profile-night-rainbow.svg)
-## ⚡ Platforms
-
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
-## ⚡ Tec Stacks
-![Go](https://img.shields.io/badge/-go-%23E44D27?style=flat-square&logo=go&logoColor=ffffff)
-![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
-<img alt="[VS Code" src="https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code" />
-![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=5lin&show_icons=true&theme=tokyonight)  
-
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h3>About Me</h3>
+      <p>I am a developer passionate about building scalable backend systems.</p>
+      <ul>
+        <li>🔭 I’m currently working on <b>Go & Java projects</b></li>
+        <li>🌱 I’m currently learning <b>Cloud Architecture</b></li>
+        <li>📫 Reach me via issues or PRs</li>
+      </ul>
+      <br/>
+      <h3>Languages & Tools</h3>
+      <img src="https://skillicons.dev/icons?i=go,java,py,redis,gcp,git,linux,vscode" />
+    </td>
+    <td valign="top" width="50%">
+      <h3>GitHub Stats</h3>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=51in&theme=dark&hide_border=true" alt="streak stats" style="width:100%" />
+      <br/><br/>
+      <img src="https://github-readme-stats.vercel.app/api?username=51in&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="stats" style="width:100%" />
+    </td>
+  </tr>
+</table>
