@@ -1,35 +1,12 @@
-<div align="center">
 
-  <h1>Hi there, I'm <a href="https://github.com/51in">51in</a> 👋</h1>
-  
-  <p>
-    Backend Developer | Go & Java Enthusiast | Cloud Architecture
-  </p>
+# 💻 Tech Stack:
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=5lin&theme=aura&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=5lin&theme=aura&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=5lin&theme=aura&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-  <br/>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=5lin&theme=transparent&no-frame=false&no-bg=true&margin-w=4)
 
-  <p align="left">
-    I am a developer passionate about building scalable backend systems.<br/>
-    Currently focusing on <b>High Concurrency</b> and <b>Microservices</b>.
-  </p>
-
-  <div align="left">
-    <ul>
-      <li>🔭 I’m currently working on <b>Go & Java projects</b></li>
-      <li>🌱 I’m currently learning <b>Cloud Architecture (GCP)</b></li>
-      <li>⚡ Fun fact: I prefer <b>Clean Code</b> over clever code.</li>
-      <li>📫 Reach me via issues or PRs.</li>
-    </ul>
-  </div>
-
-  <br/>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=51in&theme=dark&hide_border=true" alt="GitHub Streak" />
-
-  <br/>
-  <br/>
-
-  <h3>Languages & Tools</h3>
-  <img src="https://skillicons.dev/icons?i=go,java,py,redis,gcp,docker,git,linux,vscode&perline=9" />
-
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
