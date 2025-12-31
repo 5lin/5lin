@@ -13,8 +13,6 @@
     Currently focusing on <b>High Concurrency</b> and <b>Microservices</b>.
   </p>
 
-  <br/>
-
   <div align="left">
     <ul>
       <li>🔭 I’m currently working on <b>Go & Java projects</b></li>
@@ -25,15 +23,13 @@
   </div>
 
   <br/>
-
-  <h3>🛠️ Languages & Tools</h3>
   
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=51in&theme=dark&hide_border=true" alt="GitHub Streak" />
+
+  <br/>
+  <br/>
+
+  <h3>Languages & Tools</h3>
   <img src="https://skillicons.dev/icons?i=go,java,py,redis,gcp,docker,git,linux,vscode&perline=9" />
 
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github.com/51in/51in/raw/output/github-contribution-grid-snake.svg" alt="snake" />
 </div>
