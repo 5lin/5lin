@@ -1,24 +1,39 @@
-### Hi there, I'm 51in 👋
+<div align="center">
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <h3>About Me</h3>
-      <p>I am a developer passionate about building scalable backend systems.</p>
-      <ul>
-        <li>🔭 I’m currently working on <b>Go & Java projects</b></li>
-        <li>🌱 I’m currently learning <b>Cloud Architecture</b></li>
-        <li>📫 Reach me via issues or PRs</li>
-      </ul>
-      <br/>
-      <h3>Languages & Tools</h3>
-      <img src="https://skillicons.dev/icons?i=go,java,py,redis,gcp,git,linux,vscode" />
-    </td>
-    <td valign="top" width="50%">
-      <h3>GitHub Stats</h3>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=51in&theme=dark&hide_border=true" alt="streak stats" style="width:100%" />
-      <br/><br/>
-      <img src="https://github-readme-stats.vercel.app/api?username=51in&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="stats" style="width:100%" />
-    </td>
-  </tr>
-</table>
+  <h1>Hi there, I'm <a href="https://github.com/51in">51in</a> 👋</h1>
+  
+  <p>
+    Backend Developer | Go & Java Enthusiast | Cloud Architecture
+  </p>
+
+  <br/>
+
+  <p align="left">
+    I am a developer passionate about building scalable backend systems.<br/>
+    Currently focusing on <b>High Concurrency</b> and <b>Microservices</b>.
+  </p>
+
+  <br/>
+
+  <div align="left">
+    <ul>
+      <li>🔭 I’m currently working on <b>Go & Java projects</b></li>
+      <li>🌱 I’m currently learning <b>Cloud Architecture (GCP)</b></li>
+      <li>⚡ Fun fact: I prefer <b>Clean Code</b> over clever code.</li>
+      <li>📫 Reach me via issues or PRs.</li>
+    </ul>
+  </div>
+
+  <br/>
+
+  <h3>🛠️ Languages & Tools</h3>
+  
+  <img src="https://skillicons.dev/icons?i=go,java,py,redis,gcp,docker,git,linux,vscode&perline=9" />
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github.com/51in/51in/raw/output/github-contribution-grid-snake.svg" alt="snake" />
+</div>
