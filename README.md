@@ -1,65 +1,129 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0%3A0F2027%2C50%3A203A43%2C100%3A2C5364&height=220&section=header&text=U-FW&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Welcome%20to%20my%20profile!&descAlignY=55&descSize=18&animation=fadeIn" />
+<div align="center">
 
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&random=false&width=600&lines=Full-stack%20developer%3BOpen%20source%20enthusiast%3BAlways%20learning%20new%20things" alt="Typing SVG" /></a>
-</p>
+<img
+width="100%"
+src="https://capsule-render.vercel.app/api?type=waving&color=0%3A0F2027%2C50%3A203A43%2C100%3A2C5364&height=220&section=header&text=U-FW&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Welcome%20to%20my%20GitHub%20profile&descAlignY=55&descSize=18&animation=fadeIn"
+alt="U-FW profile header"
+/>
+
+<a href="https://git.io/typing-svg">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Full-stack+developer;Open-source+enthusiast;Always+learning+new+things"
+    alt="Typing introduction"
+  />
+</a>
+
+</div>
 
 ## 👋 About Me
 
-- 🔭 I'm currently working on something awesome
-- 🌱 I'm currently learning new technologies
-- 💬 Ask me about anything tech-related
-- 📫 How to reach me: [your email]
-- ⚡ Fun fact: I love coding!
+* 🔭 Building and exploring software projects
+* 🌱 Continuously learning new technologies
+* 💻 Interested in full-stack development and open source
+* 🛠️ Focused on writing practical and maintainable software
+* 📚 Always experimenting with better tools and workflows
 
-## 📊 GitHub Stats
+## 📊 GitHub Overview
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=u-fw&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000&rank_icon=github" alt="GitHub Stats" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=u-fw&theme=github_dark&hide_border=true&background=00000000" alt="GitHub Streak" />
-</p>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=u-fw&theme=github_dark"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=u-fw&theme=github"
+  />
+  <img
+    width="100%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=u-fw&theme=github"
+    alt="U-FW GitHub profile details"
+  />
+</picture>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=u-fw&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000" alt="Top Languages" />
-</p>
+<br />
 
-## 🏆 GitHub Trophies
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=u-fw&theme=github_dark"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=u-fw&theme=github"
+  />
+  <img
+    height="180"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=u-fw&theme=github"
+    alt="U-FW GitHub statistics"
+  />
+</picture>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=u-fw&theme=github_dark&no-frame=true&margin-w=10&column=7" alt="Trophies" />
-</p>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=u-fw&theme=github_dark"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=u-fw&theme=github"
+  />
+  <img
+    height="180"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=u-fw&theme=github"
+    alt="U-FW repositories by language"
+  />
+</picture>
 
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=u-fw&theme=github_dark&hide_border=true&bg_color=00000000" alt="Contribution Graph" />
-</p>
+</div>
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py,java,go,rust,tailwind,react,nextjs,vue,git,github,gitlab,vercel&perline=12" /></a>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=u-fw&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
-</p>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://skillicons.dev/icons?i=py,java,go,rust,tailwind,react,nextjs,vue,git,github,gitlab,vercel&perline=6&theme=dark"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://skillicons.dev/icons?i=py,java,go,rust,tailwind,react,nextjs,vue,git,github,gitlab,vercel&perline=6&theme=light"
+  />
+  <img
+    src="https://skillicons.dev/icons?i=py,java,go,rust,tailwind,react,nextjs,vue,git,github,gitlab,vercel&perline=6&theme=light"
+    alt="Technology stack"
+  />
+</picture>
 
-## 🐍 Contribution Snake
+</div>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/u-fw/u-fw/output/github-snake-dark.svg" alt="Snake animation" />
-</p>
+## 📌 Featured Work
 
-<!-- To make the snake work, add a GitHub Action workflow. See: https://github.com/Platane/snk -->
+Explore my repositories to see current projects, experiments, and open-source work.
 
-## 💬 Random Dev Quote
+<div align="center">
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark" alt="Random Dev Quote" />
-</p>
+[![Repositories](https://img.shields.io/badge/View_All_Repositories-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/u-fw?tab=repositories)
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0%3A0F2027%2C50%3A203A43%2C100%3A2C5364&height=120&section=footer" />
+</div>
+
+## 🤝 Connect
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-u--fw-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/u-fw)
+
+</div>
+
+<div align="center">
+
+<img
+width="100%"
+src="https://capsule-render.vercel.app/api?type=waving&color=0%3A0F2027%2C50%3A203A43%2C100%3A2C5364&height=120&section=footer"
+alt="Profile footer"
+/>
+
+</div>
